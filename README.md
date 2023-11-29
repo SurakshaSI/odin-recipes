@@ -1,2 +1,2 @@
 # odin-recipes
-website created using html consisting of recipes of a few desserts 
+website created using html and CSS showcasing a variety of dessert recipes
